@@ -1,0 +1,12 @@
+#################
+# AWS Credential
+#################
+
+aws_profile = "default"
+AWS_REGION  = "ap-southeast-1"
+
+#################
+# AWS workspaces
+#################
+Bundle_ID = "wsb-XXXXXXXX"
+Directory_ID = "d-XXXXXXX"
